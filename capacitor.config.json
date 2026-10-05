@@ -1,0 +1,9 @@
+{
+  "appId": "com.saidpur.voterlist",
+  "appName": "Voter Search",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
